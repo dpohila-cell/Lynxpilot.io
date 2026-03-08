@@ -4,61 +4,56 @@ title: Lynxpilot
 permalink: /
 ---
 
-<div class="hero">
+<section class="hero">
+  <div class="hero-kicker">Finance Consulting • Automation • Analytics</div>
+  <h1 class="hero-title">Finance clarity.<br>Better decisions.<br>Less manual work.</h1>
+  <p class="hero-text">
+    LynxPilot helps finance teams design better processes, build decision-ready analytics, and automate repetitive work.
+  </p>
+  <div class="hero-actions">
+    <a class="btn-primary" href="/services/">Explore Services</a>
+    <a class="btn-secondary" href="/contact/">Contact</a>
+  </div>
+</section>
 
-FINANCE CONSULTING • AUTOMATION • ANALYTICS
+<h2 class="section-title">What Lynxpilot Helps With</h2>
 
-# Finance clarity.  
-Better decisions.  
-Less manual work.
+<section class="card-grid">
+  <div class="card">
+    <div class="card-title">Finance Visibility</div>
+    <div class="card-text">
+      Design of reporting systems and decision-ready financial insight.
+    </div>
+  </div>
 
-LynxPilot helps finance teams design better processes, build decision-ready analytics, and automate repetitive work.
+  <div class="card">
+    <div class="card-title">Finance Processes</div>
+    <div class="card-text">
+      Stronger planning, forecasting, and operational workflows.
+    </div>
+  </div>
 
-<br>
+  <div class="card">
+    <div class="card-title">Finance Automation</div>
+    <div class="card-text">
+      Automation of repetitive finance activities.
+    </div>
+  </div>
 
-<a class="btn-primary" href="/services/">Explore Services</a>
-<a class="btn-secondary" href="/contact/">Contact</a>
+  <div class="card">
+    <div class="card-title">Data & Analytics</div>
+    <div class="card-text">
+      Dashboards and models supporting management decisions.
+    </div>
+  </div>
+</section>
 
-</div>
-
-## What Lynxpilot Helps With
-
-<div class="card-grid">
-
-<div class="card">
-
-### Finance Visibility
-Design of reporting systems and decision-ready financial insight.
-
-</div>
-
-<div class="card">
-
-### Finance Processes
-Stronger planning, forecasting, and operational workflows.
-
-</div>
-
-<div class="card">
-
-### Finance Automation
-Automation of repetitive finance activities.
-
-</div>
-
-<div class="card">
-
-### Data & Analytics
-Dashboards and models supporting management decisions.
-
-</div>
-
-</div>
-
-<div class="cta">
-
-Need support with finance processes, analytics, or automation?
-
-<a class="btn-primary" href="/services/">Explore Services</a>
-
-</div>
+<section class="cta">
+  <div class="cta-text">
+    Need support with finance processes, analytics, or automation?
+  </div>
+  <div class="cta-actions">
+    <a class="btn-primary" href="/services/">Explore Services</a>
+    <a class="btn-secondary" href="/contact/">Contact LynxPilot</a>
+  </div>
+</section>
