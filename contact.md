@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact
 
 For inquiries, collaborations, or project discussions, please contact:
 
