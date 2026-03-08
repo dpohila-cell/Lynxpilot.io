@@ -6,19 +6,29 @@ permalink: /
 
 **Copilot for Financial Decision Making**
 
-LynxPilot helps companies improve financial decision-making through analytics, structured processes, and practical automation.
+Helping finance teams improve clarity, structure decision processes, and reduce manual work through analytics and practical automation.
 
-## What We Do
+---
 
-We support finance organizations in building better visibility, stronger processes, and more efficient ways of working.
+## What LynxPilot Helps With
 
-## Main Areas
+- Improving financial visibility and reporting
+- Structuring planning and forecasting processes
+- Designing more efficient finance operations
+- Automating repetitive finance tasks
+- Building data-driven decision support
 
-- Financial planning and forecasting
-- Finance process design
-- Finance automation
-- Data and analytics
-- Interim finance leadership
+---
+
+## Core Service Areas
+
+- Financial Planning & Forecasting  
+- Finance Process Design  
+- Finance Automation  
+- Data & Analytics  
+- Interim Finance Leadership  
+
+---
 
 ## Learn More
 
