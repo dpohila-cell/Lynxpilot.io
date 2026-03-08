@@ -12,14 +12,61 @@ body {
   background: #f7f9fc;
 }
 
+/* Header */
 .site-header {
   border-top: 0;
   border-bottom: 1px solid #dbe4f0;
-  background: #ffffff;
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.custom-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(10px);
+}
+
+.header-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 84px;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none !important;
+}
+
+.brand-logo {
+  height: 34px;
+  width: auto;
+  display: block;
+}
+
+.brand-text {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: #14315d;
 }
 
 .site-title {
   font-weight: 700;
+}
+
+.site-nav .page-link {
+  margin-left: 28px;
+  color: #16335f;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.site-nav .page-link:hover {
+  text-decoration: none;
+  color: #2f67d8;
 }
 
 .page-content {
@@ -30,6 +77,7 @@ body {
   display: none;
 }
 
+/* Hero */
 .hero {
   background: linear-gradient(135deg, #edf3fc 0%, #dce9fb 45%, #4d84e6 100%);
   border-radius: 22px;
@@ -93,6 +141,7 @@ body {
   border: 1px solid #c9d7eb;
 }
 
+/* Sections */
 .section-title {
   font-size: 34px;
   line-height: 1.15;
@@ -160,6 +209,10 @@ body {
   .hero-title {
     font-size: 52px;
   }
+
+  .brand-text {
+    font-size: 26px;
+  }
 }
 
 @media screen and (max-width: 700px) {
@@ -182,5 +235,13 @@ body {
 
   .cta-text {
     font-size: 20px;
+  }
+
+  .brand-text {
+    font-size: 22px;
+  }
+
+  .brand-logo {
+    height: 28px;
   }
 }
