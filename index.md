@@ -20,6 +20,7 @@ permalink: /
 
 <section class="card-grid">
   <div class="card">
+    <div class="card-icon">📊</div>
     <div class="card-title">Finance Visibility</div>
     <div class="card-text">
       Design of reporting systems and decision-ready financial insight.
@@ -27,6 +28,7 @@ permalink: /
   </div>
 
   <div class="card">
+    <div class="card-icon">⚙️</div>
     <div class="card-title">Finance Processes</div>
     <div class="card-text">
       Stronger planning, forecasting, and operational workflows.
@@ -34,6 +36,7 @@ permalink: /
   </div>
 
   <div class="card">
+    <div class="card-icon">🤖</div>
     <div class="card-title">Finance Automation</div>
     <div class="card-text">
       Automation of repetitive finance activities.
@@ -41,6 +44,7 @@ permalink: /
   </div>
 
   <div class="card">
+    <div class="card-icon">📈</div>
     <div class="card-title">Data & Analytics</div>
     <div class="card-text">
       Dashboards and models supporting management decisions.
