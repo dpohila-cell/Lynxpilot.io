@@ -157,11 +157,12 @@ body {
 }
 
 .card {
-  background: linear-gradient(180deg, #f6f9ff 0%, #eef4ff 100%);
-  border: 1px solid #d9e4f4;
+  background: #eaf1fb;
+  border: 1px solid #cddbf2;
   border-radius: 16px;
-  padding: 24px;
+  padding: 26px;
   min-height: 170px;
+  box-shadow: 0 6px 14px rgba(20,60,120,0.08);
 }
 
 .card-title {
