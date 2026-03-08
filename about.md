@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# About
 
 LynxPilot is focused on helping finance organizations make better decisions and operate with more clarity, consistency, and efficiency.
 
