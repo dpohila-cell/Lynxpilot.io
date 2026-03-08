@@ -1,6 +1,6 @@
 ---
-title: LynxPilot
-layout: default
+layout: home
+title: Lynxpilot
 ---
 
 # LynxPilot - Copilot for Financial Decision Making
