@@ -14,11 +14,11 @@ We support finance organizations in building better visibility, stronger process
 
 ## Main Areas
 
-- Financial planning and forecasting  
-- Finance process design  
-- Finance automation  
-- Data and analytics  
-- Interim finance leadership  
+- Financial planning and forecasting
+- Finance process design
+- Finance automation
+- Data and analytics
+- Interim finance leadership
 
 ## Learn More
 
