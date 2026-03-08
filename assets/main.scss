@@ -33,7 +33,7 @@ body {
 .hero {
   background: linear-gradient(135deg, #edf3fc 0%, #dce9fb 45%, #4d84e6 100%);
   border-radius: 22px;
-  padding: 56px 56px 44px 56px;
+  padding: 90px 70px 70px 70px;
   margin: 18px 0 40px 0;
   overflow: hidden;
 }
@@ -82,8 +82,9 @@ body {
 
 .btn-primary {
   background: #2f67d8;
-  color: #ffffff !important;
-  border: 1px solid #2f67d8;
+  color: white !important;
+  border: none;
+  box-shadow: 0 8px 20px rgba(47, 103, 216, 0.35);
 }
 
 .btn-secondary {
