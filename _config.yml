@@ -3,7 +3,6 @@ description: Financial systems, automation, and decision support
 theme: minima
 
 header_pages:
-  - index.md
   - services.md
   - about.md
   - contact.md
