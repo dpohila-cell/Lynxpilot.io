@@ -36,6 +36,7 @@ body {
 .brand {
   display: inline-flex;
   align-items: center;
+  gap: 10px;
   text-decoration: none !important;
   flex: 0 0 auto;
 }
@@ -44,6 +45,14 @@ body {
   height: 68px;
   width: auto;
   display: block;
+}
+
+.brand-name {
+  font-size: 24px;
+  font-weight: 700;
+  color: #16335f;
+  letter-spacing: -0.02em;
+  line-height: 1;
 }
 
 .site-nav {
@@ -81,11 +90,12 @@ body {
 
 /* Hero */
 .hero {
-  background: linear-gradient(135deg, #edf3fc 0%, #dce9fb 45%, #4d84e6 100%);
+  background: linear-gradient(135deg, #e9f1fd 0%, #d5e4fb 42%, #4a82e3 100%);
   border-radius: 22px;
   padding: 90px 70px 70px 70px;
   margin: 18px 0 40px 0;
   overflow: hidden;
+  box-shadow: 0 18px 42px rgba(47, 103, 216, 0.14);
 }
 
 .hero-kicker {
@@ -165,6 +175,12 @@ body {
   padding: 26px;
   min-height: 170px;
   box-shadow: 0 6px 14px rgba(20, 60, 120, 0.08);
+}
+
+.card-icon {
+  font-size: 24px;
+  line-height: 1;
+  margin-bottom: 14px;
 }
 
 .card-title {
@@ -252,5 +268,9 @@ body {
 
   .brand-logo {
     height: 44px;
+  }
+
+  .brand-name {
+    font-size: 20px;
   }
 }
