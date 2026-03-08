@@ -178,9 +178,25 @@ body {
 }
 
 .card-icon {
-  font-size: 24px;
-  line-height: 1;
-  margin-bottom: 14px;
+  width: 44px;
+  height: 44px;
+  margin-bottom: 16px;
+  border-radius: 12px;
+  background: rgba(47, 103, 216, 0.1);
+  color: #2458c6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card-icon svg {
+  width: 22px;
+  height: 22px;
+  stroke: currentColor;
+  fill: none;
+  stroke-width: 1.9;
+  stroke-linecap: round;
+  stroke-linejoin: round;
 }
 
 .card-title {
