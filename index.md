@@ -4,34 +4,61 @@ title: Lynxpilot
 permalink: /
 ---
 
-**Copilot for Financial Decision Making**
+<div class="hero">
 
-Helping finance teams improve clarity, structure decision processes, and reduce manual work through analytics and practical automation.
+FINANCE CONSULTING • AUTOMATION • ANALYTICS
 
----
+# Finance clarity.  
+Better decisions.  
+Less manual work.
 
-## What LynxPilot Helps With
+LynxPilot helps finance teams design better processes, build decision-ready analytics, and automate repetitive work.
 
-- Improving financial visibility and reporting
-- Structuring planning and forecasting processes
-- Designing more efficient finance operations
-- Automating repetitive finance tasks
-- Building data-driven decision support
+<br>
 
----
+<a class="btn-primary" href="/services/">Explore Services</a>
+<a class="btn-secondary" href="/contact/">Contact</a>
 
-## Core Service Areas
+</div>
 
-- Financial Planning & Forecasting  
-- Finance Process Design  
-- Finance Automation  
-- Data & Analytics  
-- Interim Finance Leadership  
+## What Lynxpilot Helps With
 
----
+<div class="card-grid">
 
-## Learn More
+<div class="card">
 
-- [Services](/services/)
-- [About](/about/)
-- [Contact](/contact/)
+### Finance Visibility
+Design of reporting systems and decision-ready financial insight.
+
+</div>
+
+<div class="card">
+
+### Finance Processes
+Stronger planning, forecasting, and operational workflows.
+
+</div>
+
+<div class="card">
+
+### Finance Automation
+Automation of repetitive finance activities.
+
+</div>
+
+<div class="card">
+
+### Data & Analytics
+Dashboards and models supporting management decisions.
+
+</div>
+
+</div>
+
+<div class="cta">
+
+Need support with finance processes, analytics, or automation?
+
+<a class="btn-primary" href="/services/">Explore Services</a>
+
+</div>
