@@ -1,8 +1,8 @@
-<header class="site-header">
-  <div class="wrapper">
-
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      <img src="{{ "/assets/logo.png" | relative_url }}" alt="Lynxpilot" style="height:34px;">
+<header class="site-header custom-header" role="banner">
+  <div class="wrapper header-wrapper">
+    <a class="brand" rel="author" href="{{ "/" | relative_url }}">
+      <img class="brand-logo" src="{{ "/logo.png" | relative_url }}" alt="Lynxpilot logo">
+      <span class="brand-text">Lynxpilot</span>
     </a>
 
     <nav class="site-nav">
@@ -20,6 +20,5 @@
         {% endfor %}
       </div>
     </nav>
-
   </div>
 </header>
