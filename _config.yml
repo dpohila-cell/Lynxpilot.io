@@ -1,3 +1,7 @@
 title: Lynxpilot
 description: Financial systems, automation, and decision support
 theme: minima
+header_pages:
+  - services.md
+  - about.md
+  - contact.md
