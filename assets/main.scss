@@ -9,14 +9,14 @@
 
 body {
   color: #10213d;
-  background: #f7f9fc;
+  background: #f3f6fb;
 }
 
 /* Header */
 .site-header {
   border-top: 0;
   border-bottom: 1px solid #dbe4f0;
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(255, 255, 255, 0.96);
 }
 
 .custom-header {
@@ -30,38 +30,40 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 84px;
+  min-height: 92px;
 }
 
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 12px;
   text-decoration: none !important;
+  flex: 0 0 auto;
 }
 
 .brand-logo {
-  height: 34px;
+  height: 68px;
   width: auto;
   display: block;
 }
 
-.brand-text {
-  font-size: 30px;
-  font-weight: 700;
-  letter-spacing: -0.03em;
-  color: #14315d;
+.site-nav {
+  margin-left: auto;
+  float: none;
+  line-height: normal;
 }
 
-.site-title {
-  font-weight: 700;
+.site-nav .trigger {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 44px;
 }
 
 .site-nav .page-link {
-  margin-left: 28px;
+  margin-left: 0;
   color: #16335f;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .site-nav .page-link:hover {
@@ -157,12 +159,12 @@ body {
 }
 
 .card {
-  background: #eaf1fb;
-  border: 1px solid #cddbf2;
+  background: #e6eef9;
+  border: 1px solid #c9d9f0;
   border-radius: 16px;
   padding: 26px;
   min-height: 170px;
-  box-shadow: 0 6px 14px rgba(20,60,120,0.08);
+  box-shadow: 0 6px 14px rgba(20, 60, 120, 0.08);
 }
 
 .card-title {
@@ -211,8 +213,12 @@ body {
     font-size: 52px;
   }
 
-  .brand-text {
-    font-size: 26px;
+  .brand-logo {
+    height: 56px;
+  }
+
+  .site-nav .trigger {
+    gap: 28px;
   }
 }
 
@@ -238,11 +244,7 @@ body {
     font-size: 20px;
   }
 
-  .brand-text {
-    font-size: 22px;
-  }
-
   .brand-logo {
-    height: 28px;
+    height: 44px;
   }
 }
