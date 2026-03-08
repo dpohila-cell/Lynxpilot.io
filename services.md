@@ -4,7 +4,6 @@ title: Services
 permalink: /services/
 ---
 
-# Services
 
 ## Financial Planning & Forecasting
 Design of planning and forecasting frameworks, cash flow models, profitability analysis, and management reporting.
