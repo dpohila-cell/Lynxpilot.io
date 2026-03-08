@@ -4,9 +4,9 @@ title: Lynxpilot
 permalink: /
 ---
 
-# LynxPilot
+## LynxPilot
 
-**Copilot for Financial Decision Making**
+Copilot for financial decision making.
 
 LynxPilot helps companies improve financial decision-making through analytics, structured processes, and practical automation.
 
